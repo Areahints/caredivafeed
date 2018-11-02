@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Caredivafeed",
+    "description": "",
+    "home_page_url": "https://areahints.github.io/caredivafeed",
+    "feed_url": "https://areahints.github.io/caredivafeed/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Caredivafeed Admin"
+    },
+    "items": [
+    ]
+}
